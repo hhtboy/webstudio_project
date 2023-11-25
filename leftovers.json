@@ -1,0 +1,39 @@
+{
+    "total": [
+      [111.11, 222.22, 333.33, 444.44, 555.55],
+      [111.11, 222.22, 333.33, 444.44, 555.55],
+      [111.11, 222.22, 333.33, 444.44, 555.55]
+    ],
+    "breakfast": [100.0, 200.0, 300.0, 400.0, 500.0],
+    "lunch": [
+      [
+        { "titleMenu": "한식1", "weight": 100.0 },
+        { "titleMenu": "한식2", "weight": 100.0 },
+        { "titleMenu": "한식3", "weight": 100.0 },
+        { "titleMenu": "한식4", "weight": 100.0 },
+        { "titleMenu": "한식5", "weight": 100.0 }
+      ],
+      [
+        { "titleMenu": "일품1", "weight": 100.0 },
+        { "titleMenu": "일품2", "weight": 100.0 },
+        { "titleMenu": "일품3", "weight": 100.0 },
+        { "titleMenu": "일품4", "weight": 100.0 },
+        { "titleMenu": "일품5", "weight": 100.0 }
+      ],
+      [
+        { "titleMenu": "면1", "weight": 100.0 },
+        { "titleMenu": "면2", "weight": 100.0 },
+        { "titleMenu": "면3", "weight": 100.0 },
+        { "titleMenu": "면4", "weight": 100.0 },
+        { "titleMenu": "면5", "weight": 100.0 }
+      ]
+    ],
+    "dinner": [
+      { "titleMenu": "제육", "weight": 100.0 },
+      { "titleMenu": "돈가스", "weight": 100.0 },
+      { "titleMenu": "석식3", "weight": 100.0 },
+      { "titleMenu": "석식4", "weight": 100.0 },
+      { "titleMenu": "석식5", "weight": 100.0 }
+    ]
+  }
+  
