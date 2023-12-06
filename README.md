@@ -1,2 +1,2 @@
 # webstudio_project
-항공대학교 학식 잔반 분석기
+소상공인 돕기 프로젝트 (Del Luna Nail)
